@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <div className={`min-h-screen p-6 transition-colors duration-500`} style={{ backgroundColor: bgColor }}>
-      <h1 className="text-2xl font-bold text-gray-800 mb-6">Выбери цвет:</h1>
+      <h1 className="text-2xl font-bold text-gray-800 mb-6">Выбери цвет-</h1>
 
       <div className="space-x-4">
         <button
